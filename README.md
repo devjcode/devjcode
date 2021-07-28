@@ -1,4 +1,4 @@
-### Hi there 👋
+### 하고싶은거 하며 살자
 
 <!--
 **devjcode/devjcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
