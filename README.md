@@ -1,7 +1,7 @@
 <div align=center> 
   <p>
   <a href="https://velog.io/@devjcode" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:jcodeofficer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/nmdkims@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:jcodeofficer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jcodeofficer@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
   
 </p>
@@ -12,7 +12,7 @@
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
 </p>
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nmdkims&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmdkims&layout=compact&hide_border=true&theme=white)
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjcode&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjcode&layout=compact&hide_border=true&theme=white)
   
  
 
