@@ -1,4 +1,10 @@
-# 
+#
+난 오직 그대 사랑하는 마음에 <br />
+바보같은 꿈 꾸며 <br />
+이룰 수 없는 저 꿈의 나라로 <br />
+길을 잃고 헤매고있어 <br />
+
+# 🎩
 <a href="https://velog.io/@devjcode" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 # 🛠
