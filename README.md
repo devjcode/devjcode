@@ -15,11 +15,4 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 
 
-
-<div align=center> 
-
-  <p>커밍쑨</p>
-
- #20C997
-
   ![snake gif](https://github.com/devjcode/devjcode/blob/output/github-contribution-grid-snake.svg)
