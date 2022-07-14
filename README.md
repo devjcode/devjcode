@@ -1,13 +1,16 @@
 #
-난 오직 그대 사랑하는 마음에 <br />
-바보같은 꿈 꾸며 <br />
-이룰 수 없는 저 꿈의 나라로 <br />
-길을 잃고 헤매고있어 <br />
+<div align="center">
+  난 오직 그대 사랑하는 마음에 <br />
+  바보같은 꿈 꾸며 <br />
+  이룰 수 없는 저 꿈의 나라로 <br />
+  길을 잃고 헤매고있어 <br />
 
-# 🎩
+<br /><br /><br />
+# 🎩 
 <a href="https://velog.io/@devjcode" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://itswodud.notion.site/itswodud/a966df7a74ac41c1ad74dfc17227ea4e" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
+<br /><br /><br />
 # 🛠
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" /> 
@@ -39,3 +42,4 @@
 </p>
 
   ![snake gif](https://github.com/devjcode/devjcode/blob/output/github-contribution-grid-snake.svg)
+</div>
